@@ -1,2 +1,1 @@
-# cdn
-blog`s images repository
+> # 本库主要作为仓库主人的博客图床
